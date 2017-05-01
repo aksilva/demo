@@ -1,2 +1,2 @@
 # demo
-For demo purpose only
+This repository is for demo purposes only
